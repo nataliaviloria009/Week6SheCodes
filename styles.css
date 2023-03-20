@@ -47,4 +47,6 @@ ul {
 
 
 .link2 {
-text-align: center; }
+text-align: center;
+float: right;margin-right: 100px;
+}
